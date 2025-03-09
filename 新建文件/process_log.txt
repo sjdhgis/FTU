@@ -1,0 +1,6 @@
+2025-03-09 22:39:34,159 - ERROR - 未找到金额(C列)或项目工程(D列)列名
+2025-03-09 22:39:34,159 - ERROR - 发生致命错误: 'Excel缺少关键列名'
+Traceback (most recent call last):
+  File "C:\Users\33\Desktop\2024年网改项目结算\网改项目\项目\新建文件\工程书.py", line 39, in <module>
+    raise KeyError("Excel缺少关键列名")
+KeyError: 'Excel缺少关键列名'
